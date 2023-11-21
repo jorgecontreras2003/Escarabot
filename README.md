@@ -1,18 +1,19 @@
-# Escarabot - <2023>
-< Todo lo que esté entre llaves debe ser editado por ustedes y posteriormente eliminado>
+# Escarabot - 2023
 
 < Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
-### Historia del Battlebot
-< Contar la historia de vida de su battlebot.>
+### Historia del Battlebot:
+
+Escarabot fue encontrado por un grupo de estudiantes que hacían una expedición por el profundo “bosque del futuro”, 100 años después de haber sido enterrado.
+Lo recogieron y llevaron a un laboratorio para ser arreglado y actualizado con nuevas tecnologías, hasta convertirse en el invencible robot de batalla que es actualmente.
   
 ![Robot Ejemplo](/multimedia/robot_ejemplo.png)
 
 ## Integrantes
-- <Integrante 1> - < Facultad>
-- <Integrante 2> - < Facultad>
-- <Integrante 3> - < Facultad>
-- <Integrante 4> - < Facultad>
+- <Alonso Núñez> - < FCFM>
+- <Fernanda Díaz> - < Fau>
+- <Karina Bustamante> - < Fau>
+- <Jorge Contreras> - < FCFM>
 
 
 ## Descripción del proyecto
