@@ -21,10 +21,12 @@ Lo recogieron y llevaron a un laboratorio para ser arreglado y actualizado con n
 ### Estrategia utilizada
   
 #### Ofensiva
-< Explicar brevemente el arma utilizada.>
+
+Imitando al escarabajo rinoceronte usamos un sistema de compresion motorizada de alto torque con dos "colmillos" gigantes que buscan retener al rival
 
 #### Defensiva
-< Explicar el modo de defensa del robot.>
+
+Al igual que los arboles son protegidos por sus hojas y frutos, Escarabot es protegido por una carcasa en base a unas costillas de metal reforzada con una malla de acero proporcionando una alta resistencia a posibles golpes
 
 ### Diagrama funcional
 < Diagrama de bloques general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
