@@ -10,10 +10,10 @@ Lo recogieron y llevaron a un laboratorio para ser arreglado y actualizado con n
 ![Robot Ejemplo](/multimedia/robot_ejemplo.png)
 
 ## Integrantes
-- <Alonso Núñez> - < FCFM>
-- <Fernanda Díaz> - < Fau>
-- <Karina Bustamante> - < Fau>
-- <Jorge Contreras> - < FCFM>
+- Alonso Núñez - FCFM
+- Fernanda Díaz - Fau
+- Karina Bustamante - Fau
+- Jorge Contreras - FCFM
 
 
 ## Descripción del proyecto
