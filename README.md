@@ -1,4 +1,4 @@
-# <Escarabot> - <Año>
+# <Escarabot> - <2023>
 < Todo lo que esté entre llaves debe ser editado por ustedes y posteriormente eliminado>
 
 < Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
