@@ -7,7 +7,7 @@
 Escarabot fue encontrado por un grupo de estudiantes que hacían una expedición por el profundo “bosque del futuro”, 100 años después de haber sido enterrado.
 Lo recogieron y llevaron a un laboratorio para ser arreglado y actualizado con nuevas tecnologías, hasta convertirse en el invencible robot de batalla que es actualmente.
   
-![Robot Ejemplo](/multimedia/robot_ejemplo.png)
+![Robot Ejemplo](/multimedia/Escarabot-terminado.png)
 
 ## Integrantes
 - Alonso Núñez - FCFM
