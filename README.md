@@ -28,8 +28,6 @@ Imitando al escarabajo rinoceronte usamos un sistema de compresion motorizada de
 
 Al igual que los arboles son protegidos por sus hojas y frutos, Escarabot es protegido por una carcasa en base a unas costillas de metal reforzada con una malla de acero proporcionando una alta resistencia a posibles golpes
 
-### Diagrama funcional
-< Diagrama de bloques general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
 
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
